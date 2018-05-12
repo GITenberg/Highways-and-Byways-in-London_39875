@@ -1,0 +1,39 @@
+_repo: Highways-and-Byways-in-London_39875
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Griggs, Frederick Landseer Maur
+    alias: Griggs, F. L. (Frederick Landseer)
+    birthdate: 1876
+    deathdate: 1938
+    gutenberg_agent_id: '9461'
+    url: http://www.gutenberg.org/2009/agents/9461
+  - agent_name: Thomson, Hugh
+    birthdate: 1860
+    deathdate: 1920
+    gutenberg_agent_id: '24921'
+    url: http://www.gutenberg.org/2009/agents/24921
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cook, Emily Constance Baird
+    alias: Cook, Mrs. E. T.
+    deathdate: 1903
+    gutenberg_agent_id: '40292'
+    url: http://www.gutenberg.org/2009/agents/40292
+description: ''
+gutenberg_issued: '2012-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Description and travel'
+- !lcc 'DA'
+title: Highways and Byways in London
+url: http://www.gutenberg.org/ebooks/39875
